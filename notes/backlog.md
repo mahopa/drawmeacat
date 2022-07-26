@@ -7,3 +7,4 @@
 - [x] Cat Favicon 7/25
 - [x] Set Up Venmo! 7/24
 - [ ] Traffic metrics
+- [x] Postcard Pivot!
