@@ -8,3 +8,4 @@
 - [x] Set Up Venmo! 7/24
 - [ ] Traffic metrics
 - [x] Postcard Pivot!
+- [x] Set up stripe 7/26

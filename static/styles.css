@@ -1,0 +1,12 @@
+/* Colors */
+/* Ghost White: #FBFBFF */
+/* Rich Black: #040F16 */
+/* Cyan Process: #01BAEF */
+
+body{
+    background-color: #FBFBFF;
+    color:#040F16;
+}
+a{
+    color: #01BAEF;
+}
